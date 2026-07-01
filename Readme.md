@@ -1,8 +1,6 @@
 # REST Assured Automation Project
 
-⚠️ **STATUS: IN PROGRESS**
-
-## 📝 About the Project
+### 📝 About the Project
 
 This project is dedicated to mastering API test automation. It implements automated testing across the full lifecycle of
 **CRUD** (Create, Read, Update, Delete) operations to validate API behavior and response consistency.
